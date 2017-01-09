@@ -16,8 +16,7 @@
   <script type="text/javascript" src="javascript/jquery.min.js"></script>
   <script src="js/bootstrap.min.js"></script>
 
-<link rel="stylesheet"
-	href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
 <script type="text/javascript" src="js/jquery.min.js"></script>
 <script type="text/javascript" src="javascript/searchAssetsAutocomplete.js"></script>
 <script type="text/javascript" src="javascript/jquery-ui.js"> </script>
