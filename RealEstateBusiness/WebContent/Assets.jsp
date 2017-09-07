@@ -238,8 +238,8 @@ try {
 						<div class="panel-heading"><%=a[i].getAssetname()%></div>
 						<div class="panel-body">
 							<a
-								href="BargainCntr?page=AssetsPage&asset=<%=a[i].getAssetname()%>"><img
-								src='<%=a[i].getImage1()%>' class='img-responsive'
+								href="BargainCntr?page=AssetsPage&asset=<%=a[i].getAssetname()%>">
+								<img src='<%=a[i].getImage1()%>' class='img-responsive'
 								style='width: 300px; height: 200px'
 								alt='<%=a[i].getAssetname()%>'></a>
 
